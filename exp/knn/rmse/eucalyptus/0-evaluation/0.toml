@@ -1,0 +1,8 @@
+neighbors = ":exp/neighbors/eucalyptus/0"   ##指向neighbors生成的数据集
+k_range = [
+    1,
+    129,
+]
+
+[data]
+path = ":data/eucalyptus_regression"

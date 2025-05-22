@@ -1,0 +1,11 @@
+{
+    "name": "abalone",
+    "id": "abalone--s4177c8",
+    "task_type": "multiclass",
+    "n_num_features": 7,
+    "n_bin_features": 0,
+    "n_cat_features": 0,
+    "train_size": 2923,
+    "val_size": 835,
+    "test_size": 419
+}

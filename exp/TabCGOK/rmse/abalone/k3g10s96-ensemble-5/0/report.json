@@ -1,0 +1,35 @@
+{
+    "function": "bin.ensemble.main",
+    "config": {
+        "seeds": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "single_model_function": "bin.tabr_classGroup.main",
+    "data": ":data/abalone/regression/",
+    "prediction_type": null,
+    "metrics": {
+        "train": {
+            "rmse": 1.2282612723801076,
+            "mae": 0.9612388856344904,
+            "r2": 0.6798103273570384,
+            "score": -1.2282612723801076
+        },
+        "val": {
+            "rmse": 1.3407810967184772,
+            "mae": 1.033770813330695,
+            "r2": 0.6006427315751786,
+            "score": -1.3407810967184772
+        },
+        "test": {
+            "rmse": 1.3222825433599783,
+            "mae": 1.022554727922046,
+            "r2": 0.6367346476133815,
+            "score": -1.3222825433599783
+        }
+    }
+}

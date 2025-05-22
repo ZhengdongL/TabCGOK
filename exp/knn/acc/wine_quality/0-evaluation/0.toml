@@ -1,0 +1,8 @@
+neighbors = ":exp/neighbors/acc/wine_quality/0/"
+k_range = [
+    1,
+    129,
+]
+
+[data]
+path = ":data/wine_quality_classification"

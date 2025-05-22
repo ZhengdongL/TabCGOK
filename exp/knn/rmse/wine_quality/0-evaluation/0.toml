@@ -1,0 +1,8 @@
+neighbors = ":exp/neighbors/wine_quality/0"   ##指向neighbors生成的数据集
+k_range = [
+    1,
+    129,
+]
+
+[data]
+path = ":data/regression-num-medium-2-wine_quality"

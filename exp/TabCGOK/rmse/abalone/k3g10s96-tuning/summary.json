@@ -1,0 +1,21 @@
+{
+    "function": "bin.tune.main",
+    "best": {
+        "function": "bin.tabr_classGroup.main",
+        "gpus": [
+            "Tesla K80"
+        ],
+        "n_parameters": 664201,
+        "best_epoch": 43,
+        "tuning_time": "0:06:10",
+        "trial_id": 5,
+        "scores": {
+            "train": -1.2298406585780017,
+            "val": -1.340223692152296,
+            "test": -1.3353501077278311
+        },
+        "time": "0:00:57"
+    },
+    "n_completed_trials": 100,
+    "time": "1:08:44"
+}

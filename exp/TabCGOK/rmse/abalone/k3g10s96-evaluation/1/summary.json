@@ -1,0 +1,14 @@
+{
+    "function": "bin.tabr_classGroup.main",
+    "gpus": [
+        "Tesla K80"
+    ],
+    "n_parameters": 664201,
+    "best_epoch": 43,
+    "scores": {
+        "train": -1.2221346884989666,
+        "val": -1.3531041643033264,
+        "test": -1.338526893327476
+    },
+    "time": "0:00:45"
+}

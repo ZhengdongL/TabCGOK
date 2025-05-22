@@ -1,0 +1,8 @@
+neighbors = ":exp/neighbors/acc/cmc/0"
+k_range = [
+    1,
+    129,
+]
+
+[data]
+path = ":data/cmc_classification"
